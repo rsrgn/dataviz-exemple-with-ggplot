@@ -9,8 +9,5 @@ Then I worked with Microsoft Excel to simplify our dataset, the result is presen
 I choose to create a simple dot plot with ggplot2 and the function "melt" frome the reshape library to prepare the dataset.
 
 
-
-
-
-
+![the plot](https://github.com/rsrgn/dataviz-exemple-with-ggplot/blob/master/dataviz_exo_1_plot.png?raw=true "The plot produced by the R script")
 
